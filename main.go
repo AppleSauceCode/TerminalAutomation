@@ -1,3 +1,6 @@
+// Scatterholt Shodan CLI project
+// Produced by Robert Ashton @ scatterholt.com
+
 package main
 
 import (
